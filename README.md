@@ -1,0 +1,2 @@
+1. Look at the Person.cs. This is a class
+2. Then look at program.cs. Dont worry about the double-double quotes in the string, its just required by c# because it doesn't understand single quotes like powershell does.
