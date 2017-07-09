@@ -8,6 +8,8 @@ namespace parseexample
     {
         static void Main(string[] args)
         {
+            //c# requires double quotes. 
+            // Dont worry about it, just pretend this string comes from a rest api somewhere.
             var myString = @"
             {
                 ""name"": ""trond"",
